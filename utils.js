@@ -57,8 +57,8 @@ async function getFacebookAccessToken(email, password) {
       meta_inf_fbmeta: '',
       advertiser_id: adID,
       currently_logged_in_userid: '0',
-      locale: 'en_US',
-      client_country_code: 'US',
+      locale: 'vi_VN',
+      client_country_code: 'VN',
       method: 'auth.login',
       fb_api_req_friendly_name: 'authenticate',
       fb_api_caller_class:
