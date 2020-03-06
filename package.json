@@ -1,0 +1,19 @@
+{
+  "name": "get-facebook-none-expired-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./"
+  },
+  "author": "Tran Nhat Duy <duytn.hcm@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
+    "md5": "^2.2.1",
+    "query-string": "^6.11.1",
+    "uuid": "^7.0.2"
+  }
+}
